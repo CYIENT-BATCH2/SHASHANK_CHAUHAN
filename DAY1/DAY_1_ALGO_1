@@ -1,0 +1,10 @@
+Include header file
+declare main
+inside main
+read input from user
+check whether is number is divisible with 11 or its remainder is 1
+if either of condition is true
+printf it is special number
+else
+printf its not special number
+return 0
