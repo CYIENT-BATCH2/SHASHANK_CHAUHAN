@@ -1,0 +1,6 @@
+read two input from user either 0 or 1
+Use and &&,OR ||, NOT ! operator
+A&& B will give 1 when all input high otherwise gives zero
+A || B will give always 1 and give 0 when both are zero
+A = !A it will complement the input 
+print the respective output of AND ,OR and NOT gate. 
