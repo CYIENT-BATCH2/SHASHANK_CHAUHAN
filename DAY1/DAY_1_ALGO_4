@@ -1,0 +1,12 @@
+read a six digit number from user 
+store it in variable x
+check if x is greater than 0
+it will enter the if loop
+Take the remainder of the number by modulo of 10 it will give last digit
+take last digit store in the variable
+divide the x with 10 the last digit is lost
+again run the loop using goto 
+use the same procedure and get the remainder
+now multipy the previvous remainder with 10 and add the second remainder to it
+repeat till the x is gretaer then 0
+print the value at the end reverse value is printed 
