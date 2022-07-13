@@ -1,0 +1,8 @@
+Take three input from user 
+using ternary oprator we can check the largest of three
+if a > b  and a > c print a is largest weight
+otherwise print c has the largest weight
+if both previous both condition are false check b > c
+print b is greatest
+else
+print c is greatest
