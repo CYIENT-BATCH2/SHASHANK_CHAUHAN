@@ -1,0 +1,12 @@
+Enter the two digit number from user
+store its value in variable
+take another variable of i and takrs its value as 8 because we want to run the program 8 times
+so we will get the output in 8 bits
+Using goto we will decrement the value of i
+again check the conditon
+first shifting the number for 8 bits to right side using bitwise right shift and with 1
+we will get the last bit 
+print the bit 
+again decrement the vaule to 7 till 0
+and every time its right shifted by particular bit and with 1 
+and it will print the binary vaule of the number
