@@ -1,0 +1,8 @@
+The range is provided by the customer from 1990 to 2022
+we need to check the number of leap years from the given range
+so for that the given year should be divisible by 4
+that is year % 4 sholud be zero that is the remainder sholud be zero
+and we need to check other condition modulo by 400 should be zero or modulo by 100 should not be zero
+if these condition satisfy its leap year
+we can increment the count everytime when leap year is found
+print the number of leap years
