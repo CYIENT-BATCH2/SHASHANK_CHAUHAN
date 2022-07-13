@@ -1,0 +1,4 @@
+Read the number from the user
+the ASCII VALUE of character starts from 65 to 90 for capital A to Z
+then as we enter 1 it will do addition i.e. 1+64 = 65 and 
+we will print charcater value it will print the character for the particular number
