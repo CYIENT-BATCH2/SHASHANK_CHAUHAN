@@ -1,0 +1,5 @@
+Read the number of students from user
+each student will do n handshakes and then remaning will do n-1 handshakes
+as after doing handshakes are repeating twice so need to divide with 2
+so number of handshakes is n*(n-1) / 2;
+print the number of handshakes at the end
