@@ -1,0 +1,8 @@
+Read the 10 digit mobile number form user
+store it in variable n and take another variable x intialise it 0
+check if n is not equal to 0
+then do modulo of 10 on number
+get the last digit as remainder
+add the reaminder with the x and store its value with x
+use the vaule of x to get the sum of digit till it becomes false
+print the sum at the end
