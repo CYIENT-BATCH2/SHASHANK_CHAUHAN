@@ -1,0 +1,7 @@
+take 5 variables from user
+assign values to each variables
+if the variables remainder is 0 after dividing with 2
+printf it has asign a even value
+else
+printf it has been odd value
+return 0;
