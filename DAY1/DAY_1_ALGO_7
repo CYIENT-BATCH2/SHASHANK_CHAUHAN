@@ -1,0 +1,12 @@
+read the digit from the user
+store the value in another variable
+then perform reverse operation
+first divide the number with 10 and take the remainder which will be last digit
+after getting last digit multiply it with 10 and add the remainer to it
+then divide the number with 10 and the last digit will be discarded
+run the loop until the value becomes 0
+print the value it will be reverse of given number
+check if reverse
+print is palindrome
+else
+print is not palindrome 
