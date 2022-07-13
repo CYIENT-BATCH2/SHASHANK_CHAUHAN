@@ -1,0 +1,6 @@
+take character variable
+Read input character from user
+if character is equal to a,e,i,o,u or A,E,I,O,U
+then print Vowel
+else
+print consonant
