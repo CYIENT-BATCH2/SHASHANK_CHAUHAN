@@ -1,0 +1,6 @@
+take nine variable form the user
+assign values to all the variable
+then check whether the variable is sorted or not
+take two variable at a time and sort every time using goto 
+and sort until every variable is sorted 
+print the sorted value
