@@ -1,0 +1,3 @@
+read the character from user
+use character data type to store it %c
+and at the time of printing use %d it will give its ASCII value
