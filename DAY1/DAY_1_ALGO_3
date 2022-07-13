@@ -1,0 +1,5 @@
+Define macro PI 3.14
+take float variable
+read radius from user
+area of circle = PI*r*r
+print the area
