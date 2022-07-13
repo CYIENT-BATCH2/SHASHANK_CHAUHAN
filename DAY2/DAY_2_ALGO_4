@@ -1,0 +1,13 @@
+Read the size of array 
+declare an array with the given size 
+read the entery of tickets from the user in the array
+use the for storing the values in array
+run the for loop for size times of the array
+start form the index one 
+check the renainder of the number by doing modulo of 10
+if remainder is 3 then it conatains 3 in the lottery number
+take count variable and increment count as the 3 is remainder
+else increment the i
+check for index 1
+check until all the values of array are checked 
+print the final value of count it will give the total number of ticket containing three in the ticket
